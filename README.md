@@ -8,3 +8,6 @@ Problemas para ambientizar e entender o funcionamento dos juizes online
 ### Dia 2
 Básico do C
 Problemas para praticar os operadores básicos da linguagem C
+
+### Dia 3
+Estruturas de seleção e repetição
